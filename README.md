@@ -21,5 +21,26 @@ The notebook contains reusable Python functions to remove noise from text such a
 
 ---
 
-## 📂 Files in Repository
+## 🔧 Features Implemented
+
+- Remove HTML tags  
+- Remove URLs  
+- Remove punctuation & special characters  
+- Convert text to lowercase  
+- Remove extra whitespace  
+- Normalize text for ML pipelines  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- Regular Expressions (re)  
+- NLP Preprocessing Techniques  
+
+---
+
+
+
 
